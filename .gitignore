@@ -22,3 +22,9 @@ desktop.ini
 # Logs
 *.log
 npm-debug.log*
+
+# Backend generated files
+node_modules/
+*.db
+
+!.env.example
